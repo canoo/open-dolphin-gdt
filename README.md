@@ -1,4 +1,4 @@
-CAUTION: This GDT based template is deprecated. It was migrated to Lazybones and can be found here: https://github.com/canoo/open-dolphin-lazybones-templates where you can find the source and the usage instructions.
+CAUTION: This GDT based template is deprecated. It was migrated to Lazybones and can be found here: https://github.com/canoo/open-dolphin-lazybones-templates including source and the usage instructions.
 
 # GDT Templates for Open-Dolphin
 
